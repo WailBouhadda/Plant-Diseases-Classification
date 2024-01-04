@@ -1,6 +1,9 @@
 # Plant Diseases Classification
 
-#### Author:  - <a href="https://github.com/WailBouhadda">Wail Bouhadda</a>
+#### Authors:  
+
+- <a href="https://github.com/WailBouhadda">Wail Bouhadda</a>
+- <a href="https://github.com/WailBouhadda">Mohamed amchia</a>
 
 ## Table of Contents
 
