@@ -65,7 +65,7 @@ The collected data undergoes several preprocessing steps to make it suitable for
 We designed a CNN model for the initial stage of our two-part approach to classify plant types. The model's architecture comprises convolutional, pooling, and fully connected layers with ReLU activation functions. A detailed description of the model architecture is available in the repository.
 
 ### Second Stage - Disease Classification
-In the second stage, we developed a CNN model to classify diseases affecting plants. Similar to the first stage, this model utilizes convolutional layers for feature extraction, pooling layers for down-sampling, and fully connected layers with ReLU activation functions. The repository contains an in-depth explanation of the second model's architecture.
+In the second stage, we developed a CNN model to classify diseases affecting plants. Similar to the first stage, this model utilizes convolutional layers for feature extraction, pooling layers for down-sampling, and fully connected layers with ReLU activation functions, the repository contains an in-depth explanation of the second model's architecture.
 
 
 ## Model Training
