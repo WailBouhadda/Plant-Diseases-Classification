@@ -16,7 +16,7 @@
 
 ## Project Overview
 
-Welcome to the Plant Diseases Classification project, where we leverage deep learning techniques to classify plant diseases using the Plant Village dataset. Our goal is to develop a Convolutional Neural Network (CNN) model that can accurately identify various plant diseases, aiding in effective plant healthcare and management.
+Welcome to the Plant Diseases Classification project, where we leverage deep learning techniques to classify plant diseases using the Plant Village dataset. Our goal is to develop a Convolutional Neural Network (CNN) model that can accurately identify various plant diseases aiding in effective plant healthcare and management.
 
 #### Project Goals
 
